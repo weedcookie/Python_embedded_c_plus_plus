@@ -1,0 +1,11 @@
+General notes 
+
+resources for curl 
+https://curl.se/libcurl/c/CURLOPT_FOLLOWLOCATION.html
+https://curl.se/libcurl/c/libcurl-errors.html           // error codes for curl 
+
+
+
+
+Wsl 
+https://superuser.com/questions/1578661/how-to-start-wsl-in-windows-terminal-programmatically-and-run-command 
